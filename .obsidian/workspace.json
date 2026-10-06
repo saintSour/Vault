@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "5f33d25fc76abaef",
+    "type": "split",
+    "children": [
+      {
+        "id": "1414f34ce19b0183",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae5b513e72dd1a4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C++/C++20/move_semantics.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "move_semantics"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "75095a226852c47e",
+    "type": "split",
+    "children": [
+      {
+        "id": "dee44878f4238149",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67b15019c33dcfe7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "cfc77460a33a895c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Buffers_",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "d239d80fb7784126",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "b0f5e67aa390def9",
+    "type": "split",
+    "children": [
+      {
+        "id": "707ea15650020a61",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73ee10e622c4d570",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "templates/asio_template.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки"
+            }
+          },
+          {
+            "id": "24fc900bc3298806",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "templates/asio_template.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки"
+            }
+          },
+          {
+            "id": "86fe0ece1fa57347",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "94082df6aa583579",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "8f4222f48492dd83",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "templates/asio_template.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "ae5b513e72dd1a4d",
+  "lastOpenFiles": [
+    "C++/C++20/MOC_C++_Memory_Management.md",
+    "C++/C++20/stl/shared_ptr.md",
+    "C++/C++20/move_semantics.md",
+    "C++/C++20/stl/enable_shared_from_this.md",
+    "C++/C++20/stl/unique_ptr.md",
+    "templates/asio_template.md",
+    "templates/stl_template.md",
+    "C++/C++20/stl",
+    "C++/boost_asio/buffers/mutable_buffer.md",
+    "C++/C++20",
+    "C++/boost_asio/steady_timer.md",
+    "C++/boost_asio/io_context.md",
+    "C++/boost_asio/executors/thread_pool_executor.md",
+    "C++/boost_asio/executors/executors.md",
+    "C++/boost_asio/buffers/const_buffer.md",
+    "C++/boost_asio/buffers/buffers.md",
+    "Без названия.md",
+    "C++/boost_asio/executors",
+    "C++/boost_asio/buffers",
+    "Buffers_Overview.md",
+    "C++/boost_asio/error_code.md",
+    "resources",
+    "error_code.md",
+    "Без названия.base",
+    "Pasted image 20260929170436.png",
+    "Pasted image 20260929170439.png",
+    "Добро пожаловать.md",
+    "templates",
+    "Без названия 1.base",
+    "C++/boost_asio",
+    "C++"
+  ]
+}

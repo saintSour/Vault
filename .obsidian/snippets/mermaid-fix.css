@@ -1,0 +1,11 @@
+/* Масштабирование схем Mermaid под ширину экрана */
+.mermaid {
+    text-align: center;
+}
+
+.mermaid svg {
+    max-width: 100% !important;
+    height: auto !important;
+    margin: 0 auto;
+    display: block;
+}

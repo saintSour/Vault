@@ -1,0 +1,9 @@
+{
+  "userIgnoreFilters": [
+    "templates/"
+  ],
+  "promptDelete": false,
+  "focusNewTab": false,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "resources"
+}

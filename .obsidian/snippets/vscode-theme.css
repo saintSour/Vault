@@ -1,0 +1,62 @@
+/* Фоновый цвет и основной текст блока кода в стиле Visual Studio */
+.markdown-rendered pre,
+.markdown-rendered code,
+.cm-s-obsidian pre.HyperMD-codeblock,
+.cm-line:has(.cm-inline-code) {
+    background-color: #1e1e1e !important;
+    color: #d4d4d4 !important;
+    font-family: 'Consolas', 'Cascadia Code', monospace !important;
+}
+
+/* Ключевые слова (namespace, using, int, return, try, catch, const) */
+.token.keyword,
+.cm-keyword {
+    color: #569cd6 !important;
+}
+
+/* Препроцессор (#include) и управляющие конструкции */
+.token.directive,
+.token.directive-hash,
+.token.important,
+.cm-meta {
+    color: #c586c0 !important;
+}
+
+/* Строки и пути к библиотекам в кавычках / угловых скобках */
+.token.string,
+.cm-string {
+    color: #d69d85 !important;
+}
+
+/* Числа */
+.token.number,
+.cm-number {
+    color: #b5cea8 !important;
+}
+
+/* Комментарии */
+.token.comment,
+.cm-comment {
+    color: #6a9955 !important;
+    font-style: italic;
+}
+
+/* Имена функций и вызовы методов (main, run, what) */
+.token.function,
+.cm-def {
+    color: #dcdcaa !important;
+}
+
+/* Операторы и пунктуация (::, ;, {, }, <<) */
+.token.punctuation,
+.token.operator,
+.cm-operator,
+.cm-punctuation {
+    color: #d4d4d4 !important;
+}
+
+/* Имена типов и классов */
+.token.class-name,
+.cm-type {
+    color: #4ec9b0 !important;
+}
